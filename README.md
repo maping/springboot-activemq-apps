@@ -7,6 +7,7 @@ Click "Repositories",then click "New" button,input "springboot-activemq-apps", l
 在 STS 工作目录下，创建 springboot-activemq-apps 目录，然后把所有有关 springboot activemq 应用复制到这里。
 
 ### 1.3 Init repo 
+```console
 $ cd springboot-activemq-apps
 $ echo "# springboot-activemq-apps" >> README.md
 $ git init
@@ -15,3 +16,4 @@ $ git commit -m "add springboot activemq apps"
 $ git branch -M main
 $ git remote add origin https://github.com/maping/springboot-activemq-apps.git
 $ git push -u origin main
+```
