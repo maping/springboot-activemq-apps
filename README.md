@@ -4,7 +4,7 @@
 Click "Repositories",then click "New" button,input "springboot-activemq-apps", leave all other input as default, click "Create repository".
 
 ### 1.2 Develop springboot activemq apps
-在 STS 工作目录下，创建 springboot-activemq-apps 目录，然后把所有有关 springboot activemq 应用复制到这里。
+创建 springboot-activemq-apps 目录，然后把所有有关 springboot activemq 应用复制到这里
 - helloworld
 - activemq-queue-producer
 - activemq-queue-consumer
